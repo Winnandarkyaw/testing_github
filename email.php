@@ -1,0 +1,3 @@
+<?php
+"sending email";
+?>
