@@ -7,5 +7,6 @@ echo "Third line from online";
 echo "Fourth line from cli";
 
 echo "Forth line from online";
+echo "Fifth line from online";
 
 ?>
