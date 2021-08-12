@@ -1,5 +1,7 @@
 <?php
 echo "sending email";
 echo "another email send";
-echo "third line from cli";
+echo "Third line from cli";
+echo "Third line from online";
+
 ?>
